@@ -1,0 +1,11 @@
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\bin\Debug\netcoreapp2.2\DE1A100.deps.json
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\bin\Debug\netcoreapp2.2\DE1A100.runtimeconfig.json
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\bin\Debug\netcoreapp2.2\DE1A100.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\bin\Debug\netcoreapp2.2\DE1A100.dll
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\bin\Debug\netcoreapp2.2\DE1A100.pdb
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\obj\Debug\netcoreapp2.2\DE1A100.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\obj\Debug\netcoreapp2.2\DE1A100.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\obj\Debug\netcoreapp2.2\DE1A100.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\obj\Debug\netcoreapp2.2\DE1A100.AssemblyInfo.cs
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\obj\Debug\netcoreapp2.2\DE1A100.dll
+C:\Users\49393984808\Documents\Exercícios2.0\DE1A100\obj\Debug\netcoreapp2.2\DE1A100.pdb
