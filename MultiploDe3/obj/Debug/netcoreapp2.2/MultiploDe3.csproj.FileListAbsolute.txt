@@ -1,0 +1,11 @@
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\bin\Debug\netcoreapp2.2\MultiploDe3.deps.json
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\bin\Debug\netcoreapp2.2\MultiploDe3.runtimeconfig.json
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\bin\Debug\netcoreapp2.2\MultiploDe3.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\bin\Debug\netcoreapp2.2\MultiploDe3.dll
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\bin\Debug\netcoreapp2.2\MultiploDe3.pdb
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\obj\Debug\netcoreapp2.2\MultiploDe3.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\obj\Debug\netcoreapp2.2\MultiploDe3.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\obj\Debug\netcoreapp2.2\MultiploDe3.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\obj\Debug\netcoreapp2.2\MultiploDe3.AssemblyInfo.cs
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\obj\Debug\netcoreapp2.2\MultiploDe3.dll
+C:\Users\49393984808\Documents\Exercicios2.0\MultiploDe3\obj\Debug\netcoreapp2.2\MultiploDe3.pdb

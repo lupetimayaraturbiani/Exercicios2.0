@@ -1,0 +1,11 @@
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\obj\Debug\netcoreapp2.2\OrdemAlfabetica.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\obj\Debug\netcoreapp2.2\OrdemAlfabetica.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\obj\Debug\netcoreapp2.2\OrdemAlfabetica.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\obj\Debug\netcoreapp2.2\OrdemAlfabetica.AssemblyInfo.cs
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\bin\Debug\netcoreapp2.2\OrdemAlfabetica.deps.json
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\bin\Debug\netcoreapp2.2\OrdemAlfabetica.runtimeconfig.json
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\bin\Debug\netcoreapp2.2\OrdemAlfabetica.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\bin\Debug\netcoreapp2.2\OrdemAlfabetica.dll
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\bin\Debug\netcoreapp2.2\OrdemAlfabetica.pdb
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\obj\Debug\netcoreapp2.2\OrdemAlfabetica.dll
+C:\Users\49393984808\Documents\Exercicios2.0\OrdemAlfabetica\obj\Debug\netcoreapp2.2\OrdemAlfabetica.pdb
