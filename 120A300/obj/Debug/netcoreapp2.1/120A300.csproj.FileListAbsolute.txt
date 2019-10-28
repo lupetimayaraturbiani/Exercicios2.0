@@ -1,0 +1,11 @@
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\bin\Debug\netcoreapp2.1\120A300.deps.json
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\bin\Debug\netcoreapp2.1\120A300.runtimeconfig.json
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\bin\Debug\netcoreapp2.1\120A300.runtimeconfig.dev.json
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\bin\Debug\netcoreapp2.1\120A300.dll
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\bin\Debug\netcoreapp2.1\120A300.pdb
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\obj\Debug\netcoreapp2.1\120A300.csprojAssemblyReference.cache
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\obj\Debug\netcoreapp2.1\120A300.csproj.CoreCompileInputs.cache
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\obj\Debug\netcoreapp2.1\120A300.AssemblyInfoInputs.cache
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\obj\Debug\netcoreapp2.1\120A300.AssemblyInfo.cs
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\obj\Debug\netcoreapp2.1\120A300.dll
+C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\120A300\obj\Debug\netcoreapp2.1\120A300.pdb

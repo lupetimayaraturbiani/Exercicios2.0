@@ -17,27 +17,26 @@ namespace LadosTriangulo
             System.Console.WriteLine("Insira o valor correspondente ao lado 3 : ");
             lado3 = int.Parse(Console.ReadLine());
 
-            if ((lado1 + lado2) > lado3)
+            if((lado1 < lado2 +lado3) && (lado2 < lado1 + lado3) && (lado3 < lado1 + lado2) )
             {
-                System.Console.WriteLine($"Lado 1 : {lado1}");
-                System.Console.WriteLine($"Lado 2 : {lado2}");
-                System.Console.WriteLine($"Lado menor : {lado3}");
-            }
-            else if ((lado3 + lado1) > lado2)
-            {
-                System.Console.WriteLine($"Lado 1 : {lado1}");
-                System.Console.WriteLine($"Lado 2 : {lado3}");
-                System.Console.WriteLine($"Lado menor : {lado2}");
-            }
-            else if ((lado2 + lado3) > lado1)
-            {
-                System.Console.WriteLine($"Lado 1 : {lado2}");
-                System.Console.WriteLine($"Lado 2 : {lado3}");
-                System.Console.WriteLine($"Lado menor : {lado1}");
+                System.Console.WriteLine("Os valores fornecidos formam um tiângulo.");
+                
+                if((lado1 == lado2) && (lado2 != lado3) || (lado2 == lado3) && (lado3 != lado1) || (lado3 == lado1) && (lado1 != lado2))
+                {
+                    System.Console.WriteLine("Esse triângulo é isóceles.");
+                }
+                else if((lado1 == lado2) && (lado2 == lado3))
+                {
+                    System.Console.WriteLine("Esse triângulo é equilátero.");
+                }
+                else 
+                {
+                    System.Console.WriteLine("Esse triângulo é escaleno.");
+                }
             }
             else
             {
-                System.Console.WriteLine("Os lados inseridos não podem fazer parte de um triângulo.");
+                System.Console.WriteLine("Os valores fornecidos não formam um triângulo.");
             }
 
         }
