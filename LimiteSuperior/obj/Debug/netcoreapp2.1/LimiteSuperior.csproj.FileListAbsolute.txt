@@ -9,3 +9,14 @@ C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp
 C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.AssemblyInfo.cs
 C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.dll
 C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.pdb
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\bin\Debug\netcoreapp2.1\LimiteSuperior.deps.json
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\bin\Debug\netcoreapp2.1\LimiteSuperior.runtimeconfig.json
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\bin\Debug\netcoreapp2.1\LimiteSuperior.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\bin\Debug\netcoreapp2.1\LimiteSuperior.dll
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\bin\Debug\netcoreapp2.1\LimiteSuperior.pdb
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.AssemblyInfo.cs
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.dll
+C:\Users\49393984808\Documents\Exercicios2.0\LimiteSuperior\obj\Debug\netcoreapp2.1\LimiteSuperior.pdb

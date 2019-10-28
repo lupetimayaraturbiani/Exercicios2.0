@@ -6,15 +6,20 @@ namespace VetorN
     {
         static void Main(string[] args)
         {
-            int x;
-            int [] numeros;
+            int num;
 
             System.Console.WriteLine("Insira um número inteiro: ");
-            x = int.Parse(Console.ReadLine());
+            num = int.Parse(Console.ReadLine());
+            int [] numeros = new int [num];
 
-            for (int i = 0;; i++)
+            for (int i = 0;i >= num; i++)
             {
-                System.Console.WriteLine($"");
+                numeros[i] = int.Parse(Console.ReadLine());
+            }
+
+            for (int i = 0;i >= num; i++)
+            {
+                System.Console.WriteLine("Os números adicionados foram" + numeros[i]);
             }
         }
     }

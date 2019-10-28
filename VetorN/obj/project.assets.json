@@ -688,28 +688,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mayara.MAYARA\\.nuget\\packages\\": {},
+    "C:\\Users\\49393984808\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mayara.MAYARA\\Desktop\\Exercicios2.0\\VetorN\\VetorN.csproj",
+      "projectUniqueName": "C:\\Users\\49393984808\\Documents\\Exercicios2.0\\VetorN\\VetorN.csproj",
       "projectName": "VetorN",
-      "projectPath": "C:\\Users\\Mayara.MAYARA\\Desktop\\Exercicios2.0\\VetorN\\VetorN.csproj",
-      "packagesPath": "C:\\Users\\Mayara.MAYARA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mayara.MAYARA\\Desktop\\Exercicios2.0\\VetorN\\obj\\",
+      "projectPath": "C:\\Users\\49393984808\\Documents\\Exercicios2.0\\VetorN\\VetorN.csproj",
+      "packagesPath": "C:\\Users\\49393984808\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\49393984808\\Documents\\Exercicios2.0\\VetorN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mayara.MAYARA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\49393984808\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -727,6 +729,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

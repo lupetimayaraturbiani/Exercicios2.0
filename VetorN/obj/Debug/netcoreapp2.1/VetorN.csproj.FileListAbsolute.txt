@@ -2,3 +2,14 @@ C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\Veto
 C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.csproj.CoreCompileInputs.cache
 C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.AssemblyInfoInputs.cache
 C:\Users\Mayara.MAYARA\Desktop\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.AssemblyInfo.cs
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\bin\Debug\netcoreapp2.1\VetorN.deps.json
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\bin\Debug\netcoreapp2.1\VetorN.runtimeconfig.json
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\bin\Debug\netcoreapp2.1\VetorN.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\bin\Debug\netcoreapp2.1\VetorN.dll
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\bin\Debug\netcoreapp2.1\VetorN.pdb
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.AssemblyInfo.cs
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.dll
+C:\Users\49393984808\Documents\Exercicios2.0\VetorN\obj\Debug\netcoreapp2.1\VetorN.pdb

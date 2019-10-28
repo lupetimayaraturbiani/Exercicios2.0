@@ -1,0 +1,11 @@
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\obj\Debug\netcoreapp2.2\Vetor10.csprojAssemblyReference.cache
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\obj\Debug\netcoreapp2.2\Vetor10.csproj.CoreCompileInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\obj\Debug\netcoreapp2.2\Vetor10.AssemblyInfoInputs.cache
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\obj\Debug\netcoreapp2.2\Vetor10.AssemblyInfo.cs
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\bin\Debug\netcoreapp2.2\Vetor10.deps.json
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\bin\Debug\netcoreapp2.2\Vetor10.runtimeconfig.json
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\bin\Debug\netcoreapp2.2\Vetor10.runtimeconfig.dev.json
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\bin\Debug\netcoreapp2.2\Vetor10.dll
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\bin\Debug\netcoreapp2.2\Vetor10.pdb
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\obj\Debug\netcoreapp2.2\Vetor10.dll
+C:\Users\49393984808\Documents\Exercicios2.0\Vetor10\obj\Debug\netcoreapp2.2\Vetor10.pdb
