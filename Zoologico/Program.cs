@@ -1,4 +1,7 @@
 ﻿using System;
+using Zoologico.Interfaces;
+using Zoologico.Models;
+using System.Linq;
 
 namespace Zoologico
 {
@@ -6,67 +9,72 @@ namespace Zoologico
     {
         static void Main(string[] args)
         {
+            var querSair = false;
+                
+            do
+            {
             
-            int animal;
-
-            
+                #region menu principal
+            var numAnimal = 0;
             Console.Clear();
             System.Console.WriteLine("=========------------------=========");
             System.Console.WriteLine("========= Menu - Zoológico =========");
             System.Console.WriteLine("=========------------------=========");
-            System.Console.WriteLine("==  1  ==--Tubarão Martelo-=========");
-            System.Console.WriteLine("==  2  ==------Tucano------=========");
-            System.Console.WriteLine("==  3  ==------Arara-------=========");
-            System.Console.WriteLine("==  4  ==-------Leão-------=========");
-            System.Console.WriteLine("==  5  ==----Orangotango---=========");
-            System.Console.WriteLine("==  6  ==-----Chimpanzé----=========");
-            System.Console.WriteLine("==  7  ==------Pinguim-----=========");
-            System.Console.WriteLine("==  8  ==-----Tartaruga----=========");
-            System.Console.WriteLine("==  9  ==-----Golfinho-----=========");
-
-            System.Console.WriteLine("Digite o código correspondente ao animal:");
-            animal = int.Parse(Console.ReadLine());
-
-            switch (animal)
-            {
-                case 1:
-                System.Console.WriteLine("Este animal deve ir para o Aquário.");
-                break;
-
-                case 2:
-                System.Console.WriteLine("Este animal deve ir para a Gaiola.");
-                break;
-
-                case 3:
-                System.Console.WriteLine("Este animal deve ir para a Gaiola.");
-                break;
-
-                case 4: 
-                System.Console.WriteLine("Este animal deve ir para o Pasto.");
-                break;
-
-                case 5:
-                System.Console.WriteLine("Este animal deve ir para a Casa em Árvore");
-                break;
-
-                case 6: 
-                System.Console.WriteLine("Este animal deve ir para a Caverna de Pedra.");
-                break;
-
-                case 7:
-                System.Console.WriteLine("Este animal deve ir para a Piscina Gelada.");
-                break;
-
-                case 8:
-                System.Console.WriteLine("Este animal deve ir para o Aquário ou para a Piscina.");
-                break;
-
-                case 9:
-                System.Console.WriteLine("Este animal deve ir para o Aquário.");
-                break;
-                
-            }
             
+            foreach (var item in Animais.animais.Values)
+            {
+                System.Console.WriteLine($"{++numAnimal}{" "}======= {item.GetType().Name}");
+            }
+                #endregion 
+            System.Console.WriteLine();
+            System.Console.Write($"Insira o número correspondente ao animal desejado: ");
+
+            try 
+            {
+                var opcaoUsuario = int.Parse(Console.ReadLine());
+                var animal =  Animais.animais[opcaoUsuario];
+                ClassificarAnimal(animal);
+            }
+            catch (Exception e)
+            {
+                System.Console.WriteLine("Entre com um valor válido.");
+                Console.ReadLine();
+            }
+            } while (!querSair);
+        }
+
+        
+
+        public static void ClassificarAnimal(Animal animal)
+        {
+            var classe = animal.GetType();
+            var @interfaces = classe.GetInterfaces().FirstOrDefault();
+
+            if ((typeof(IAquatico)).Equals(@interfaces))
+            {
+                System.Console.WriteLine($"========= {classe.Name} deve ir para para a Piscina =========");
+
+            }
+            else if ((typeof(IArborículo)).Equals(@interfaces))
+            {
+                System.Console.WriteLine($"========= {classe.Name} deve ir para a Casa em Árvore =========");
+            }
+            else if ((typeof(IBranquiado)).Equals(@interfaces))
+            {
+                System.Console.WriteLine($"========= {classe.Name} deve ir para o Aquário =========");
+            }
+            else if ((typeof(IVoador)).Equals(@interfaces))
+            {
+                System.Console.WriteLine($"========= {classe.Name} deve ir para a Gaiola =========");
+            }
+            else if ((typeof(ITerrestre)).Equals(@interfaces))
+            {
+                System.Console.WriteLine($"========= {classe.Name} deve ir para o Pasto ou Caverna de Pedras =========");
+            }
+            else if ((typeof(IPolar)).Equals(@interfaces))
+            {
+                System.Console.WriteLine($"========= {classe.Name} deve ir para a Piscina Gelada =========");
+            }
         }
         
     }
